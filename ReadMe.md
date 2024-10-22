@@ -3,4 +3,4 @@ In this workshop, you'll continue to get more practice working with events and e
 
 Preview of the app: a user types 9 into the input field and clicks a button to add it to a number bank. The user then clicks the "Sort 1" button. The 9 is moved from the number bank into the "odd" category.
 
-<img width="748" alt="image" src="https://github.com/user-attachments/assets/cdeda813-d1f3-4fbe-8f6b-6a8263d22313">
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/cdeda813-d1f3-4fbe-8f6b-6a8263d22313">
